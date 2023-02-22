@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @kinggoldchainsthedon
+- 👋 Hi, I’m Timothy
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...through my email kinggoldchainsthedon@gmail.com
+- 📫 How to reach me ...through my email iamkimathi333@gmail.com
 - Tell 0740308734
-- Doing frontend part with Html, Css, Javascript
-- Started doing backend with django, projects still ongoing
-- interested in the field of programming, reaching other software engineers, sharing ideas and innovations
-
-<!---
-kinggoldchainsthedon/kinggoldchainsthedon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- Doing frontend with landing portfolios using with Html, Css, Javascript
+- Learning UI/UX Design with Reactjs.
+- Ready to pertake project collaborations on React js , HTML, CSS and JavaScript
+- Right now idon't have a job but if any comes across you can contact me through my email iamkimathi333@gmail.com or phone 0740308734
 --->
